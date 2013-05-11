@@ -5,7 +5,7 @@
 
 #define MY_UUID { 0x05, 0x2F, 0x25, 0xC6, 0xEB, 0xDE, 0x42, 0xE1, 0x93, 0xE6, 0xF5, 0x07, 0x19, 0x38, 0xF3, 0x2D }
 PBL_APP_INFO(MY_UUID,
-             "Template App", "Your Company",
+             "Three Dominoes", "Guillaume Laforge",
              1, 0, /* App version */
              DEFAULT_MENU_ICON,
              APP_INFO_STANDARD_APP);
